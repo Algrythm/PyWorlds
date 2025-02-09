@@ -1,0 +1,7 @@
+mapData.json can NOT be modified. This file, if modified, moved, or deleted, WILL BREAK the installation of the game.
+
+!!BACKUP THE FILE BEFORE MODIFYING EXPERIMENTALLY!!
+
+mapData.json is explicitly used for a placeholder for world exports. If this file is modified, or removed, the game will NOT function.
+
+In the case that mapData.json is removed by mistake, re-install the game or replace the file if you have a backup.

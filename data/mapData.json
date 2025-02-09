@@ -1,0 +1,12 @@
+{
+    "renderDistance": 0,
+    "mapSize": 0,
+    "perlinOctave": 0,
+    "perlinSeed": 0,
+    "placedBlocks": [],
+    "placedBlockData": [],
+    "treeData": [],
+    "removedMapBlocks": [],
+    "gameVersion": "",
+    "playerSpawnLocation": ""
+}
