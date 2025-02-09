@@ -35,12 +35,19 @@ Execute **Run.bat** to start the game (in the bin folder).
 ## 0.3 (Beautiful Worlds Update) Notes:
 
 Complete overhaul of game assets.
+
 Major bug fixes.
+
 Improved world generation.
+
 Improved tree generation.
+
 More user-friendly menu navigation.
+
 More world generation options.
+
 Added more world decoration.
+
 Renamed "placedBlockTreeData" key in exported world json files to "treeData" for accuracy.
 
 
