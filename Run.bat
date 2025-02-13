@@ -1,6 +1,6 @@
 @echo off
 cls
-echo READ 'README AND LICENSE.MD' BEFORE PLAYING!!!
+echo READ 'readme.md' BEFORE PLAYING!!!
 pause
 cls
 :a
