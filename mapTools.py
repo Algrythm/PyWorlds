@@ -3,8 +3,6 @@ from ursina.prefabs.first_person_controller import FirstPersonController
 import json
 from voxel import Block
 from perlin_noise import PerlinNoise
-import logging
-logging.basicConfig(level=logging.ERROR)
 validBlocks = []
 autoPlacedBlocks = []
 def initMap(TEX,MAP_SIZE,MAPDATA,CUR_GAME_VERSION,SHADER_TEMP,PERLIN_OCTAVE):
