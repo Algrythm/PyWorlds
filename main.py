@@ -185,7 +185,6 @@ if SHADOWS == True:
     DirectionalLight(parent=pivot, y=2, z=3, shadows=True, rotation=(45, -45, 45))
 else:
     SHADER_TEMP = None
-current_game_version = Text(CUR_GAME_VERSION,scale=1,x=-.1,y=.47)
 player = FirstPersonController()
 
 if os.path.isfile(mapData):
@@ -319,6 +318,8 @@ def input(key):
         else:
             print("PyWorlds.Error.142: Block cannot be deleted from save.")
 def update():
+    if player.position.y <= -50:
+        player.position = playerSpawn
     for block in VALID_BLOCKS:
         if len(VALID_BLOCKS) > 0:
             if block:
