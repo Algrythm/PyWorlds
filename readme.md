@@ -54,28 +54,37 @@ Renamed "placedBlockTreeData" key in exported world json files to "treeData" for
 ## 0.3A (0.3 PATCH #1):
 
 Removed unnecessary variables.
+
 Code cleanup.
 
 
 ## Controls:
 
 T - Open command-line
+
 1,2,3 - Switch Block Texture
+
 Esc - Exit game
 
 ## Commands:
 
 /tp /setpos /teleport (X,Y,Z) 
+
 Change X, Y, Z to your own coordinates.
 
 /toSpawn
+
 Sends you back to the world spawn point (0,0,0 or your custom set spawn point).
 
 /seed
+
 Get world seed.
 
 /execute ()
+
 Execute Python Code.
 
 /setSpawn
+
 Set Player Spawn Point.
+
