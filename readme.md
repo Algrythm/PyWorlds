@@ -32,7 +32,7 @@ Execute **dependencies.bat** to install all required Python packages.
 
 Create folder called **worlds** in game directory.
 
-Execute **Run.bat** to start the game (in the bin folder).
+Execute **Run.bat** to start the game.
 
 
 ## 0.3 (Beautiful Worlds Update) Notes:
