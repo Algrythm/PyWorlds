@@ -29,6 +29,7 @@ Music by Algrythm / Mars Cannon
 ## HOW TO PLAY:
 
 Execute **dependencies.bat** to install all required Python packages.
+Create folder called **worlds** in game directory.
 Execute **Run.bat** to start the game (in the bin folder).
 
 
